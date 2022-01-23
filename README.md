@@ -10,6 +10,3 @@
 * [Twitter](https://twitter.com/hakkagodd)
 * [Discord](https://discord.com/users/854379787699093584)
 
-## Other Stuff
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=exeta-exe&show_icons=true&locale=en&layout=compact" alt="ebomber" /></p>
