@@ -8,5 +8,5 @@
 ## Social Medias
 
 * [Twitter](https://twitter.com/hakkagodd)
-* [Discord](https://discord.com/users/854379787699093584)
+* [Discord](https://discord.com/users/932760536196730950)
 
