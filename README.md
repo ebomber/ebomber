@@ -9,4 +9,4 @@
 
 * [Twitter](https://twitter.com/hakkagodd)
 * [Discord](https://discord.com/users/932760536196730950)
-
+* [Other](https://solo.to/dbg)
