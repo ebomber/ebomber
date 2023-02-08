@@ -10,6 +10,3 @@
 * [Twitter](https://twitter.com/hakkagodd)
 * [Discord](https://discord.com/users/932760536196730950)
 
-```
-regex = '^(\w|\.|\_|\-)+[@](\w|\_|\-|\.)+[.]\w{2,3}$'
-```
